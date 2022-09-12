@@ -17,6 +17,7 @@
   "dependencies": {
     "sass": "^1.54.9",
     "style.css": "^1.0.3",
+    "three": "^0.144.0",
     "vercel": "^28.2.3"
   }
 }
